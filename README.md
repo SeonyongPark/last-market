@@ -29,7 +29,7 @@
 | Web-Front-End | Web-Back-End |Android|
 | ------ | ------ |------|
 |React      |  RDS      |Android Studio (Kotlin, Java)|
-|Styled-Component       |Redis        |Retrofit(API통신)|
+|Styled-Component       |Rabbitmq        |Retrofit(API통신)|
 ||Spring Boot|OkHTTP(OpenVidu)|
 ||Spring Data JPA|Stomp Library(Chat)|
 ||Spring Security|MVVM pattern|
